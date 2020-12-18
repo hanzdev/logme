@@ -6,7 +6,6 @@ show info: python keylogger.py -h
 example usage:
 python logme.py -t file
 
-![alt text](https://www.fileus.ml/do.php?img=39)
 
 other usage:
 python logme.py -t terminal
